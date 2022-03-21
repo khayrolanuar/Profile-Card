@@ -43,11 +43,13 @@
     font-size: 40px;
     font-weight: 600;
     margin-top: 20px;
+    cursor: default;
   }
   .card p {
     font-size: 18px;
     margin: 10px auto;
     max-width: 330px ;
+    cursor: default;
   }
   .card .links img {
       width: 40px;
